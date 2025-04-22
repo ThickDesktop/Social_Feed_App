@@ -110,8 +110,7 @@ flutter run
 Here are some screenshots of the app in action:
 
 signup Screen
-
-![image](https://github.com/user-attachments/assets/19c12114-b292-43b4-abe5-a3e51ba3743b)
+<img width="497" alt="Screenshot 2025-04-22 at 9 59 26 PM" src="https://github.com/user-attachments/assets/8a9e5af0-4255-4f22-abbf-ba44cc48c104" />
 
 
 
