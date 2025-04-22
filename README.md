@@ -102,7 +102,7 @@ Once Firebase is set up, run the app on your emulator or device:
 flutter run
 
 
-
+```
 ⸻
 
 🖼 Screenshots
@@ -110,11 +110,36 @@ flutter run
 Here are some screenshots of the app in action:
 
 signup Screen
-<img width="497" alt="Screenshot 2025-04-22 at 9 59 26 PM" src="https://github.com/user-attachments/assets/8a9e5af0-4255-4f22-abbf-ba44cc48c104" />
+
+<img width="497" alt="Screenshot 2025-04-22 at 9 59 26 PM" src="https://github.com/user-attachments/assets/d475992e-6595-4b74-8277-52a35a435886" />
 
 
+login Screen
 
-Feed Screen
+<img width="497" alt="Screenshot 2025-04-22 at 10 02 04 PM" src="https://github.com/user-attachments/assets/e7c7df56-bea0-4935-9852-7e9ef8f84965" />
+
+feed screen
+
+<img width="497" alt="Screenshot 2025-04-22 at 10 02 30 PM" src="https://github.com/user-attachments/assets/9fe26271-ba71-4f5b-9339-e1206a595023" />
+
+create post screen
+
+<img width="497" alt="Screenshot 2025-04-22 at 10 03 02 PM" src="https://github.com/user-attachments/assets/71887293-43c1-4d40-a6af-e00eca7d8ea6" />
+
+🔧 Firebase Screenshots
+
+firebase authentication
+
+<img width="1582" alt="Screenshot 2025-04-22 at 10 05 50 PM" src="https://github.com/user-attachments/assets/48f0eae5-7114-48b5-8146-75b7b113fae6" />
+
+firebase database
+
+<img width="1582" alt="Screenshot 2025-04-22 at 10 07 03 PM" src="https://github.com/user-attachments/assets/ac501f96-2534-4de6-bfde-36e3badf579c" />
+
+firebase rules
+
+<img width="1582" alt="Screenshot 2025-04-22 at 10 07 53 PM" src="https://github.com/user-attachments/assets/8cb8914c-252f-4269-a086-b09385000725" />
+
 
 ⸻
 
